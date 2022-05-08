@@ -1,5 +1,5 @@
 # Python Examples
-### Has been forked into JN-ltd
+### Has been forked into JN-ltd, again.
 
 Example programs from the course CCPS 109 Computer Science I, as taught by [Ilkka Kokkarinen](http://www.scs.ryerson.ca/~ikokkari/) for the Chang School of Continuing Education, Ryerson University, Toronto, Canada.
 
